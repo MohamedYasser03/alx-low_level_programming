@@ -21,10 +21,10 @@ int main(void)
 
 	/*prints A - Z*/
 	while (X <= 'Z')
-        {
-                putchar(X);
-                X++;
-        }
+	{
+		putchar(X);
+		X++;
+	}
 
 	putchar('\n');
 
