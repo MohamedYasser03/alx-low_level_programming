@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S -masm=intl $cFILE -o `echo $CFILE | cut -d. -f1`.s
