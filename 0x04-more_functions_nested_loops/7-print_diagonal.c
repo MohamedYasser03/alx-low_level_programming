@@ -5,7 +5,6 @@
  *
  * @n: checks input of function
  *
- * Return: 1 if true, 0 if false
 */
 
 void print_diagonal(int n)
