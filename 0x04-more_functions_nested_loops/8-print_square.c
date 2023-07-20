@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_square - checks if character is a letter
+ * print_square - prints #
  *
- * @size: size
+ * @size: the size
  *
- * Return: 1 if true, 0 if false
+ * Return: 0 Always (Success)
 */
 
 void print_square(int size)
