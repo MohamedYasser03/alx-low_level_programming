@@ -2,8 +2,8 @@
 
 /**
  * reset_to_98 - checks if character is a letter
- * 
- * @n : 
+ *
+ * @n: var
  * Return: 1 if true, 0 if false
 */
 
